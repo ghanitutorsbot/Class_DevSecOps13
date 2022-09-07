@@ -14,7 +14,7 @@ DevSecOps
 
     Artifactory - JFrog
     
-    Delivery( Continous Delivery)
+    Delivery ( Continous Delivery)
     Webserver - (testing environment) (sessions)
                 - One code - At a time multiple users
     (blackbox testing) - Functional testing 
@@ -35,3 +35,6 @@ DevSecOps
         IAC Testing (DevSecOps)
 
 4. Configuration Management (Ansible)
+
+
+5. DevSecOps

@@ -49,7 +49,7 @@ DEVOPS
 
 11. KUBERNETES
 
-12. ELK Stash
+12. ELK Stack
 
 
 DevSecOps
