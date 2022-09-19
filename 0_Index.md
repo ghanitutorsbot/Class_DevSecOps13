@@ -14,6 +14,7 @@ DEVOPS
         GIT commands        
         GIT Authentication
 3. JAVA
+        JUNIT
 4. MAVEN
         Installation
         maven commands
@@ -53,8 +54,9 @@ DEVOPS
 
 
 DevSecOps
-
+SCA 
 SAST tools
 DAST tools
+IAST tools
 Container Security
 Infra security
